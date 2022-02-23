@@ -5,6 +5,6 @@ namespace BettingSite2.Handlers.Queries
 {
     public class GetAllBetsQuery : IRequest<List<BetReadResponse>>
     {
-        
+       
     }
 }

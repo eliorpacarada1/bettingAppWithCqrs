@@ -1157,11 +1157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\BettingSite2\\BettingSite2\\BettingSite2.csproj",
+      "projectUniqueName": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\bettingAppWithCqrs\\BettingSite2\\BettingSite2\\BettingSite2.csproj",
       "projectName": "BettingSite2",
-      "projectPath": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\BettingSite2\\BettingSite2\\BettingSite2.csproj",
+      "projectPath": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\bettingAppWithCqrs\\BettingSite2\\BettingSite2\\BettingSite2.csproj",
       "packagesPath": "C:\\Users\\eliorp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\BettingSite2\\BettingSite2\\obj\\",
+      "outputPath": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\bettingAppWithCqrs\\BettingSite2\\BettingSite2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eliorp\\AppData\\Roaming\\NuGet\\NuGet.Config",

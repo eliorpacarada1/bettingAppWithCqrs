@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XpHrrfeFv4wJHv2eNr/cNMEhoBqIEMTIjB7fR5MWgVWosKFXnTs6dSLA0bBHIGhazgCctFGuYMIms4xZcqjt0A==",
+  "dgSpecHash": "9FRwLncFKYHmo0yYGuZCG0lBUztk6p5y/3U+L0dtr7EM8SWSs+K6ZSKuEqM9IaxEyhuALojzlRCenJhMB1hqPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\BettingSite2\\BettingSite2\\BettingSite2.csproj",
+  "projectFilePath": "C:\\Users\\eliorp\\Desktop\\designpatternsstudy\\DesignPatterns\\bettingAppWithCqrs\\BettingSite2\\BettingSite2\\BettingSite2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eliorp\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\eliorp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

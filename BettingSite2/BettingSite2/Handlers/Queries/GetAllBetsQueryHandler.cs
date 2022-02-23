@@ -18,6 +18,7 @@ namespace BettingSite2.Handlers.Queries
         }
         public async Task<List<BetReadResponse>> Handle(GetAllBetsQuery request, CancellationToken cancellationToken)
         {
+
             var entities = await _repository.GetAllBets();
             return _mapper.Map<List<BetReadResponse>>(entities);
             

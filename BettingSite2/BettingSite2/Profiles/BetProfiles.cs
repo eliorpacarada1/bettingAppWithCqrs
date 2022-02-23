@@ -9,7 +9,7 @@ namespace BettingSite2.Profiles
     {
         public BetProfiles()
         {
-            CreateMap<Bet, BetReadRespone>().ReverseMap();
+            CreateMap<Bet, BetReadResponse>().ReverseMap();
             CreateMap<Bet, BetCreateRequest>().ReverseMap();
             CreateMap<Bet, BetUpdateRequest>().ReverseMap();
             CreateMap<Bet, BetCreateResponse>().ReverseMap();

@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
+using BettingSite2.Dtos.Requests;
 using BettingSite2.Dtos.Responses;
+using BettingSite2.Handlers.Commands;
 using BettingSite2.Handlers.Queries;
 using BettingSite2.Interfaces;
 using MediatR;
@@ -18,7 +20,15 @@ namespace BettingSite2.Services
             _mediator = mediator;
             _mapper = mapper;
         }
-        public async Task<List<BetReadResponse>> Test()
+
+        public Task<BetReadResponse> CreateBet(BetCreateRequest request)
+        {
+            var command = new CreateBetCommand(request);
+
+            return _mediator.Send(command);
+        }
+
+        public async Task<List<BetReadResponse>> GetAllBets()
         {
             var query = new GetAllBetsQuery();
 
